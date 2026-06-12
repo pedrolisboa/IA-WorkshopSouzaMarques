@@ -1,6 +1,6 @@
 # Trabalhar com IA: o que muda na sua segunda-feira
 
-Material complementar da oficina apresentada no **Congresso da Faculdade Souza Marques** em 12 de junho de 2026.
+Material complementar da oficina apresentada no **II Congresso Científico Souza Marques** em 12 de junho de 2026.
 
 
 ---
@@ -33,7 +33,7 @@ Use o prompt da query da ANVISA em [`prompts.md`](prompts.md). Rode em qualquer 
 
 O arquivo `planilha_demo1.csv` contém **dados fictícios** — gerados especificamente para fins pedagógicos. Não representam pacientes reais. Os campos imitam a estrutura de um export de pesquisa clínica (patient_id, age, sex, diagnosis_code, lab_creatinina, visit_date, length_of_stay), mas todos os valores são inventados.
 
-Não use esse arquivo como base para análise clínica real. Não use o padrão dos prompts aqui sobre dados reais de pacientes sem antes ler a [Resolução CFM nº 2.454/2026](https://portal.cfm.org.br) e considerar implicações de sigilo médico e LGPD.
+Não use esse arquivo como base para análise clínica real. Não use o padrão dos prompts aqui sobre dados reais de pacientes sem antes ler a [Resolução CFM nº 2.454/2026](https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2454_2026.pdf) e considerar implicações de sigilo médico e LGPD.
 
 ---
 
