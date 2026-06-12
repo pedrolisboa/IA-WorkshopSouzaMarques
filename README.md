@@ -2,8 +2,6 @@
 
 Material complementar da oficina apresentada no **Congresso da Faculdade Souza Marques** em 12 de junho de 2026.
 
-**Facilitador:** Pedro Lisboa
-*Engenheiro de computação · terminando mestrado em IA pela UFRJ*
 
 ---
 
